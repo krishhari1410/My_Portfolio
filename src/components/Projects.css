@@ -1,0 +1,26 @@
+.projects {
+  padding: 100px 60px;
+  background: #161616;
+}
+
+.projects h1 {
+  color: cyan;
+  margin-bottom: 40px;
+}
+
+.project-container {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.project-card {
+  width: 300px;
+  background: #1f1f1f;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.project-card h2 {
+  margin-bottom: 20px;
+}

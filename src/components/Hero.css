@@ -1,0 +1,39 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px 60px;
+  min-height: 100vh;
+}
+
+.hero-left {
+  max-width: 600px;
+}
+
+.hero-left h1 {
+  font-size: 70px;
+  margin: 20px 0;
+}
+
+.hero-left h2 {
+  color: cyan;
+  margin-bottom: 20px;
+}
+
+.hero-left p {
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.hero-left button {
+  padding: 12px 25px;
+  background: cyan;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.hero-right img {
+  width: 350px;
+  border-radius: 50%;
+}
