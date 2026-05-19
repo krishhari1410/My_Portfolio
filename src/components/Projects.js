@@ -21,6 +21,11 @@ function Projects() {
       desc: "Restaurant Platform",
       link: "https://tinyurl.com/restaurant-manage",
     },
+    {
+      title: "QR Code Generator",
+      desc: "QR Gen App",
+      link: "https://tinyurl.com/qr-code-prj",
+    },
 
   ];
 
